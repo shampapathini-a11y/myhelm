@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  kiran:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-11-05T06:46:10.465360942Z"
+    description: A Helm chart for Kubernetes
+    digest: 3724d9e36168631da54237660eb665f2aed72edbc250269860efe2fdfbae8da6
+    name: kiran
+    type: application
+    urls:
+    - kiran-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-11-05T06:46:10.463829741Z"
